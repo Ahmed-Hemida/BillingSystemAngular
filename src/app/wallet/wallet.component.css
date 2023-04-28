@@ -1,0 +1,69 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    text-align: center;
+  }
+
+  .mt-5 {
+     
+    margin-top: 5%;
+ }
+ 
+ .m-15-px {
+    margin-left: 15px;
+ }
+ 
+ .mb-5 {
+    margin-bottom: 5%;
+ }
+ 
+ .ml-5 {
+ 
+    margin-left: 5%;
+ }
+ .ml-4 {
+ 
+    margin-left: 4%;
+ }
+ .ml-3 {
+ 
+    margin-left: 3%;
+ }
+ .ml-2 {
+ 
+    margin-left: 2%;
+ }
+ 
+ .ml-1 {
+ 
+    margin-left: 1%;
+ }
+ 
+ .m-5 {
+ 
+    margin: 5%;
+ }
+ 
+ .m-4 {
+ 
+    margin: 4%;
+ }
+ 
+ .m-3 {
+ 
+    margin: 3%;
+ }
+ 
+ .m-2 {
+ 
+    margin: 2%;
+ }
+ 
+ .m-1 {
+ 
+    margin: 1%;
+ }
+ .txt-w{
+font-size: 40px;
+ }

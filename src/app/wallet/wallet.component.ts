@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./wallet.component.css']
 })
 export class WalletComponent {
-
+ Current: number  =500;
 }

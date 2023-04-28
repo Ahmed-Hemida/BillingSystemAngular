@@ -7,3 +7,20 @@
     border-color: transparent;
 
 }
+.header{
+    padding: 15px;
+    height: 30px;
+    background-color:rgb(118, 149, 240);
+    color: white;
+}
+
+.header a{
+    color: white;
+}
+
+.logout_btn{
+    border-radius: 10px;
+    background-color:rgb(51, 91, 212);
+     padding: 5px;
+}
+
